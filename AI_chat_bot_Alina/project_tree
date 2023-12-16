@@ -1,0 +1,19 @@
+.
+├── api
+│   ├── __init__.py
+│   └── views
+│       ├── assistant.py
+│       ├── __init__.py
+│       └── notification.py
+├── app.py
+├── database.py
+├── LICENSE
+├── models
+│   └── model.py
+├── project_tree
+├── README.md
+├── requirements.txt
+├── tests
+└── tree
+
+5 directories, 12 files
