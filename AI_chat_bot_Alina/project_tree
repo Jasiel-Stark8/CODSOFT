@@ -13,7 +13,11 @@
 ├── project_tree
 ├── README.md
 ├── requirements.txt
-├── tests
-└── tree
+├── static
+│   ├── script.js
+│   └── styles.css
+├── templates
+│   └── index.html
+└── tests
 
-5 directories, 12 files
+7 directories, 14 files
